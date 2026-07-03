@@ -1,0 +1,7 @@
+# Data and Models are too large for GitHub (100MB limit)
+data/
+*.parquet
+*.pkl
+*.txt
+__pycache__/
+.ipynb_checkpoints/
